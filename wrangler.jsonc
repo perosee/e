@@ -1,0 +1,6 @@
+{
+  "name": "e",
+  "compatibility_date": "2025-07-24",
+  "main": "src/index.js",
+  "compatibility_flags": ["nodejs_compat"]
+}
